@@ -53,7 +53,7 @@ Voice-enabled NLP chatbot to control UGOT robot using speech
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://linkedin.com/in/mojeshsetty)
-- 🧑‍💻 [Portfolio Website](https://mojeshsetty-portfolio.lovable.app/about) *(Optional)*
+- 🧑‍💻 [Portfolio Website](https://mojeshsetty-portfolio.lovable.app/about) 
 - 📧 Email: mjshchnn@gmail.com
 
 > 👀 Looking for opportunities in Embedded Systems, Robotics, or IoT? Let's build the future together!
